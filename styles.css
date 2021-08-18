@@ -1,0 +1,29 @@
+body{
+	background-color: #32c655;
+}
+
+
+
+#main{
+	align-content: center;
+	width: 500px;
+	height: 350px;
+	box-sizing: border-box;
+	border: 0px;
+	box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.5);
+	background-color: white;
+	position: absolute;
+	margin-left: 30%;
+	margin-top: 200px;
+	margin-bottom:30%;
+
+}
+
+
+p{
+	margin-left: 30px;
+	padding: 10px;
+}
+
+
+
